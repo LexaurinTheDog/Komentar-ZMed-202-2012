@@ -89,6 +89,11 @@ Zákon dopadá jen na mediaci vedenou zapsaným mediátorem; jen ta nese zákonn
 
 **Mediační dohoda (písm. f))** je **písemná** dohoda stran konfliktu, uzavřená **v rámci mediace**, která upravuje jejich práva a povinnosti. Mediátor není její stranou; stvrzuje však podpisem, že byla uzavřena v rámci mediace (§ 7, § 8 odst. 1 písm. d)). Mediační dohoda sama o sobě není exekučním titulem; vykonatelnost jí může dodat schválení soudem ve smírčím řízení (§ 67 odst. 2, § 99 o. s. ř.) nebo jiný postup, který právní řád k tomu připouští.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [32 Cdo 594/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF81E7FAE8A09D57C125842300181130?openDocument) — 23. 4. 2019, kat. A
+  > „První soudem nařízené setkání se zapsaným mediátorem, při němž nedojde k uzavření smlouvy o provedení mediace, není procesním úkonem účastníků ve smyslu § 11 odst. 2 písm. a) zákona č. 91/2012 Sb"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Sourozenci se sporem o užívání zděděné chaty se setkají se zapsaným mediátorem. Ústně se dohodnou na střídání užívání po měsících; nic nepodepíší.
@@ -206,6 +211,11 @@ Ustanovení spojuje pod společnou rubrikou čtyři rozdílná pravidla: dvě o 
 **Soudem nařízené první setkání.** Nařízení prvního setkání s mediátorem podle § 100 odst. 2 o. s. ř. samo mediaci nezahajuje; účastníci jsou povinni se setkat s mediátorem v rozsahu 3 hodin, nikoli uzavřít smlouvu o provedení mediace. Mediace je zahájena teprve tehdy, rozhodnou-li se strany smlouvu uzavřít. Mediátor stranám vydá potvrzení o splnění povinnosti setkat se s ním (§ 8 odst. 1 písm. f)).
 
 **Obsahové minimum (odst. 2).** Smlouva musí obsahovat alespoň: a) označení stran konfliktu; b) jméno (jména), příjmení a adresu místa podnikání mediátora; c) vymezení konfliktu, který je předmětem mediace; d) výši odměny nebo způsob jejího určení, popř. ujednání o záloze nebo o bezplatnosti; e) dobu trvání mediace nebo ujednání o době neurčité. Vymezení konfliktu (písm. c)) je významné pro rozsah účinků mediace i pro rozsah zákazu podle § 8 odst. 2. Ujednání o odměně navazuje na § 10; doba podle písm. e) na § 6 odst. 3 písm. e). Důsledky absence obligatorní náležitosti zákon výslovně neupravuje; zda jde o neplatnost smlouvy (s dopadem na zahájení mediace), nebo jen o mezeru doplnitelnou výkladem, je výkladovou otázkou. Pro jistotu stran je namístě všechny náležitosti uvést výslovně.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [32 Cdo 594/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF81E7FAE8A09D57C125842300181130?openDocument) — 23. 4. 2019, kat. A
+  > „První soudem nařízené setkání se zapsaným mediátorem, při němž nedojde k uzavření smlouvy o provedení mediace, není procesním úkonem účastníků ve smyslu § 11 odst. 2 písm. a) zákona č. 91/2012 Sb"
 
 #### F. Kazuistika
 
