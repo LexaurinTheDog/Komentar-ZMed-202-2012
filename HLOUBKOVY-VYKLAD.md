@@ -13,7 +13,7 @@ Každá z třinácti vrstev odděluje místní zjištění, autorský test a doh
 - **Syntéza:** autorské propojení textu, systematiky a místních pramenů.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení.
 
-Místní korpus pro tuto mapu tvoří **4 kapitoly** (úvod a tři věcné kapitoly), **39 samostatně nadepsaných ustanovení** (§ 1–39), **45 modalitních příkladů** a **0 místních karet rozhodnutí**. Místní důvodová zpráva není součástí repozitáře; historický argument proto nelze ověřit místním pramenem a je v textu označován jako syntéza nebo otevřená otázka.
+Místní korpus pro tuto mapu tvoří **4 kapitoly** (úvod a tři věcné kapitoly), **39 samostatně nadepsaných ustanovení** (§ 1–39), **45 modalitních příkladů** a **1 místní karta rozhodnutí** ([NS 32 Cdo 594/2019](judikatura/NS-32-Cdo-594-2019.md), citovaná u § 2 a § 4). Místní důvodová zpráva není součástí repozitáře; historický argument proto nelze ověřit místním pramenem a je v textu označován jako syntéza nebo otevřená otázka.
 
 ## 1. Znění, novelizace a časová působnost
 
@@ -239,16 +239,17 @@ Reprezentativní normativní vazby porušení a následku:
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Místní složka `judikatura/` dosud neobsahuje **žádnou kartu rozhodnutí** (doplní se strojově později); soubor zásad odkazuje na **0 místních karet s použitelnou citací** a výslovně uvádí, že zásady nejsou formulovány jako judikatorní teze. Kapitoly obsahují **0 rozpoznaných citací nebo odkazů na rozhodovací praxi**; úvod k tomu výslovně uvádí: „Komentář neuvádí spisové značky soudních rozhodnutí, které by nebyly doloženy místními prameny“.
-Místní korpus neposkytuje rozpoznanou kartu ani citaci rozhodnutí; judikatorní závěr se proto nesmí domýšlet. Místa, kde by judikatura typicky rozhodla otevřenou otázku, jsou v kapitolách označena jako **výkladová otázka** (v kapitolách 01–03 celkem 44 takových označení).
+Místní složka `judikatura/` obsahuje **jednu kartu rozhodnutí**: [NS 32 Cdo 594/2019](judikatura/NS-32-Cdo-594-2019.md), rozhodnutí Nejvyššího soudu ze dne 23. 4. 2019 (kat. A). Kapitola 01 ji cituje u [§ 2 — Základní pojmy](01-vykon-mediace.md) a [§ 4 — Zahájení mediace](01-vykon-mediace.md), vždy s navazujícím odstavcem „K místní judikaturní kartě“; soubor zásad na ni odkazuje u zásady 1 a jinak výslovně uvádí, že zásady nejsou formulovány jako judikatorní teze. Úvod k metodě uvádí: „Komentář neuvádí spisové značky soudních rozhodnutí, které by nebyly doloženy místními prameny“.
+**Judikatura.** Právní věta karty zní: „První soudem nařízené setkání se zapsaným mediátorem, při němž nedojde k uzavření smlouvy o provedení mediace, není procesním úkonem účastníků ve smyslu § 11 odst. 2 písm. a) zákona č. 91/2012 Sb“. Výklad ke kartě u § 4 ji vztahuje k pravidlu, že mediace se zahajuje až uzavřením smlouvy: „Žalovaný, který se takového setkání zúčastní, si tím podle karty nezavírá možnost navrhnout, aby žalobci-cizinci bylo uloženo složení jistoty na náklady řízení.“ Na setkání, při němž strany smlouvu o provedení mediace uzavřou, právní věta karty nedopadá.
+K ostatním ustanovením místní korpus kartu ani citaci rozhodnutí neposkytuje; judikatorní závěr se proto nesmí domýšlet. Místa, kde by judikatura typicky rozhodla otevřenou otázku, jsou v kapitolách označena jako **výkladová otázka** (v kapitolách 01–03 celkem 44 takových označení).
 
 **Hloubkový test.**
-- U každého rozhodnutí, které bude doplněno do `judikatura/`, oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
+- U místní karty i u každého dalšího rozhodnutí, které bude doplněno do `judikatura/`, oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
 - Ověřte, zda soud vykládal stejné znění (konsolidace k 1. 7. 2017, dřívější § 100 odst. 3 OSR, zrušený § 112 OZ 1964) a stejný právní problém a zda závěr nebyl později odlišen nebo překonán.
 - Nevytvářejte obecnou právní větu z úvahy závislé na zvláštních skutkových okolnostech (např. závěr o promlčení u konkrétní mediace nepřenášejte na mediaci bez písemné smlouvy).
-- Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability; prioritně ji hledejte k § 647 OZ a mediaci, k § 100 odst. 2 OSR a k § 124 OSR (mlčenlivost mediátora).
+- Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability; prioritně ji hledejte k § 647 OZ a mediaci, k § 100 odst. 2 OSR nad rámec otázky řešené kartou NS 32 Cdo 594/2019 a k § 124 OSR (mlčenlivost mediátora).
 
-**Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md); [úvodní místní výklad](00-uvod.md)
+**Místní opora.** [místní karta NS 32 Cdo 594/2019](judikatura/NS-32-Cdo-594-2019.md); [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md); [úvodní místní výklad](00-uvod.md)
 
 ## 10. Konkurenční výklady, protiargumenty a hraniční případy
 
@@ -315,7 +316,7 @@ Aplikační vrstvu lze ověřit zejména v:
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **4 kapitolami** (úvod a tři věcné kapitoly). Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- místní složka `judikatura/` zatím neobsahuje kartu rozhodnutí s citovatelnou tezí (doplní se strojově); soubor zásad proto stojí jen na textu a systematice.
+- místní složka `judikatura/` obsahuje jedinou kartu rozhodnutí s citovatelnou tezí ([NS 32 Cdo 594/2019](judikatura/NS-32-Cdo-594-2019.md) k § 2 a § 4); k ostatním ustanovením karta chybí a soubor zásad proto stojí převážně na textu a systematice.
 - místní důvodová zpráva není součástí repozitáře; historický a teleologický argument nelze ověřit místním pramenem.
 - komentář sám upozorňuje na časové omezení: „Vychází z konsolidovaného znění účinného od 1. 7. 2017; pozdější změny nemusí být zohledněny.“
 - parametry prováděcí vyhlášky a poplatkových sazeb jsou označeny k ověření — u odměny za nařízené setkání výslovně „aktuální stav vyhlášky je třeba ověřit“.
@@ -337,15 +338,15 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
 | [Komentář k zákonu č. 202/2012 Sb. — úvod](00-uvod.md) | ano | ano | ano | ano | ano | ano | nenalezeno | ano |
-| [Kapitola 1 — výkon mediace (§ 1–12)](01-vykon-mediace.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
+| [Kapitola 1 — výkon mediace (§ 1–12)](01-vykon-mediace.md) | ano | ano | ano | ano (karta u § 2 a § 4) | ano | ano | ano | ano |
 | [Kapitola 2 — organizace mediace (§ 13–24)](02-organizace-mediace.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 | [Kapitola 3 — přestupky, EU, novely a účinnost (§ 25–39)](03-prestupky-eu-novely-ucinnost.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 
-Signál „Judikatura“ u úvodu představuje pouze metodickou výhradu o neuvádění nedoložených spisových značek, nikoli citaci rozhodnutí.
+Signál „Judikatura“ u úvodu představuje metodickou výhradu o neuvádění nedoložených spisových značek a odkaz na jedinou místní kartu; u kapitoly 01 jde o citaci karty NS 32 Cdo 594/2019 u § 2 a § 4.
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** textový signál nebyl nalezen ve 3 ze 4 kapitol: [kapitola 01](01-vykon-mediace.md), [kapitola 02](02-organizace-mediace.md), [kapitola 03](03-prestupky-eu-novely-ucinnost.md); po strojovém doplnění `judikatura/` je třeba projít výkladové otázky a u každé ověřit, zda ji rozhodnutí řeší.
+- **Judikatura:** textový signál nebyl nalezen ve 2 ze 4 kapitol: [kapitola 02](02-organizace-mediace.md), [kapitola 03](03-prestupky-eu-novely-ucinnost.md); [kapitola 01](01-vykon-mediace.md) cituje jedinou místní kartu (NS 32 Cdo 594/2019) u § 2 a § 4. Po každém dalším doplnění `judikatura/` je třeba projít výkladové otázky a u každé ověřit, zda ji rozhodnutí řeší.
 - **Aplikace:** úvod kazuistiku neobsahuje, což odpovídá jeho přehledové funkci; aplikační vrstvu nesou kapitoly 01–03.
 - **Časová aktuálnost:** při změně OSR, zákona o advokacii, vyhlášky č. 277/2012 Sb. nebo poplatkových sazebníků ověřit odkazy v § 10, § 23, § 30, § 35, § 37 a § 38.
 

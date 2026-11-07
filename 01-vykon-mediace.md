@@ -94,6 +94,8 @@ Zákon dopadá jen na mediaci vedenou zapsaným mediátorem; jen ta nese zákonn
 - *NS* [32 Cdo 594/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF81E7FAE8A09D57C125842300181130?openDocument) — 23. 4. 2019, kat. A
   > „První soudem nařízené setkání se zapsaným mediátorem, při němž nedojde k uzavření smlouvy o provedení mediace, není procesním úkonem účastníků ve smyslu § 11 odst. 2 písm. a) zákona č. 91/2012 Sb"
 
+**K místní judikaturní kartě NS 32 Cdo 594/2019:** Podle právní věty karty není první soudem nařízené setkání se zapsaným mediátorem, při němž nedojde k uzavření smlouvy o provedení mediace, procesním úkonem účastníků ve smyslu § 11 odst. 2 písm. a) zákona č. 91/2012 Sb. (podle místního znění jde o pravidlo, podle něhož nelze cizinci uložit složení jistoty na náklady řízení, byl-li návrh podán až poté, co žalovaný ve věci jednal nebo vykonal procesní úkon). Pro pojmy podle § 2 z toho plyne, že účast „strany konfliktu“ na nařízeném setkání, které nevyústí ve smlouvu o provedení mediace, nemá procesní účinky, jež karta zkoumá; mediace podle tohoto zákona se zahajuje až uzavřením smlouvy (§ 4 odst. 1).
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Sourozenci se sporem o užívání zděděné chaty se setkají se zapsaným mediátorem. Ústně se dohodnou na střídání užívání po měsících; nic nepodepíší.
@@ -216,6 +218,8 @@ Ustanovení spojuje pod společnou rubrikou čtyři rozdílná pravidla: dvě o 
 
 - *NS* [32 Cdo 594/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FF81E7FAE8A09D57C125842300181130?openDocument) — 23. 4. 2019, kat. A
   > „První soudem nařízené setkání se zapsaným mediátorem, při němž nedojde k uzavření smlouvy o provedení mediace, není procesním úkonem účastníků ve smyslu § 11 odst. 2 písm. a) zákona č. 91/2012 Sb"
+
+**K místní judikaturní kartě NS 32 Cdo 594/2019:** Karta navazuje na pravidlo § 4 odst. 1: nařízené první setkání se zapsaným mediátorem, při němž smlouva o provedení mediace uzavřena není, mediaci nezahajuje a podle právní věty karty není ani procesním úkonem účastníků ve smyslu § 11 odst. 2 písm. a) zákona č. 91/2012 Sb. Žalovaný, který se takového setkání zúčastní, si tím podle karty nezavírá možnost navrhnout, aby žalobci-cizinci bylo uloženo složení jistoty na náklady řízení. Uzavřou-li strany na setkání smlouvu o provedení mediace, jde o mediaci se všemi účinky podle tohoto zákona; na takovou situaci právní věta karty nedopadá.
 
 #### F. Kazuistika
 

@@ -6,7 +6,7 @@
 
 ## Jak dokument používat
 
-Každá otázka odděluje tři věci: co lze podle současného místního korpusu říci, jak má sepisovatel otázku dále řešit a kde je místní podklad. Odkaz označuje místo k ověření, nikoli náhradu četby celé věty a jejího systematického kontextu. Není-li podklad v místním korpusu, dokument výslovně označí mezeru; absence místního podkladu sama nedokazuje, že právní pravidlo nebo judikatura neexistují. V tomto repozitáři chybí místní důvodová zpráva a místní karty rozhodnutí (složka `judikatura/` se doplní strojově později).
+Každá otázka odděluje tři věci: co lze podle současného místního korpusu říci, jak má sepisovatel otázku dále řešit a kde je místní podklad. Odkaz označuje místo k ověření, nikoli náhradu četby celé věty a jejího systematického kontextu. Není-li podklad v místním korpusu, dokument výslovně označí mezeru; absence místního podkladu sama nedokazuje, že právní pravidlo nebo judikatura neexistují. V tomto repozitáři chybí místní důvodová zpráva; složka `judikatura/` obsahuje jedinou kartu rozhodnutí ([NS 32 Cdo 594/2019](judikatura/NS-32-Cdo-594-2019.md), citovaná u § 2 a § 4), k ostatním ustanovením místní karty rozhodnutí chybí.
 
 ## 1. Jaký regulační problém, účel a hodnoty předpis sleduje?
 
@@ -130,12 +130,12 @@ Typické střety: důvěrnost proti zájmu na zjištění pravdy (místní výkl
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Místní složka `judikatura/` zatím neobsahuje **žádnou** kartu rozhodnutí (doplní se strojově později); v systematickém souboru zásad je odkazováno na **0** různých místních karet s použitelnou citací.
-Místní korpus neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se proto nesmí domýšlet. Úvod to sám zdůrazňuje: „Komentář neobsahuje vymyšlené ani nedoložené spisové značky; kde zákon otázku výslovně neřeší, je výklad označen jako výkladová otázka.“
+Místní složka `judikatura/` obsahuje **jednu** kartu rozhodnutí: [NS 32 Cdo 594/2019](judikatura/NS-32-Cdo-594-2019.md), rozhodnutí Nejvyššího soudu ze dne 23. 4. 2019 (kat. A), citované v [kapitole 01](01-vykon-mediace.md) u § 2 a § 4; v systematickém souboru zásad je na ni odkazováno u zásady 1 (dobrovolnost mediace).
+Z právní věty karty plyne jediná teze: první soudem nařízené setkání se zapsaným mediátorem, při němž nedojde k uzavření smlouvy o provedení mediace, není procesním úkonem účastníků ve smyslu § 11 odst. 2 písm. a) zákona č. 91/2012 Sb. Výklad ke kartě u § 4 z toho dovozuje, že žalovaný si účastí na takovém setkání nezavírá možnost navrhnout, aby žalobci-cizinci bylo uloženo složení jistoty na náklady řízení; na setkání, při němž strany smlouvu o provedení mediace uzavřou, právní věta karty nedopadá. K ostatním ustanovením místní judikatura chybí a judikatorní odpověď se nesmí domýšlet. Úvod to sám zdůrazňuje: „Komentář neobsahuje vymyšlené ani nedoložené spisové značky; kde zákon otázku výslovně neřeší, je výklad označen jako výkladová otázka.“
 
-**Jak ji řešit.** U každého rozhodnutí, které bude doplněno, oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění a stejný právní problém (pozor na přečíslování OSR a na zrušený občanský a obchodní zákoník). Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; chybějící místní judikaturu označte jako mezeru. Prioritou pro doplnění jsou otázky promlčení při mediaci (§ 647 OZ), mlčenlivosti mediátora jako svědka (§ 124 OSR) a nařízeného prvního setkání (§ 100 odst. 2 OSR).
+**Jak ji řešit.** U místní karty i u každého dalšího rozhodnutí, které bude doplněno, oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění a stejný právní problém (pozor na přečíslování OSR a na zrušený občanský a obchodní zákoník). Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; chybějící místní judikaturu označte jako mezeru. Prioritou pro doplnění jsou otázky promlčení při mediaci (§ 647 OZ), mlčenlivosti mediátora jako svědka (§ 124 OSR) a dalších účinků nařízeného prvního setkání (§ 100 odst. 2 OSR) nad rámec otázky řešené kartou NS 32 Cdo 594/2019.
 
-**Místní opora.** [místní zásady a citace](ZASADY.md); [úvodní místní výklad](00-uvod.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
+**Místní opora.** [místní karta NS 32 Cdo 594/2019](judikatura/NS-32-Cdo-594-2019.md); [§ 2 a § 4 — citace karty](01-vykon-mediace.md); [místní zásady a citace](ZASADY.md); [úvodní místní výklad](00-uvod.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
 
 ## 10. Jaké systematické, kolizní a časové vazby mohou změnit odpověď?
 
@@ -185,9 +185,9 @@ Příklad úplné subsumpce z [§ 3 — Základní ustanovení](01-vykon-mediace
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **4** kapitoly (úvod a tři věcné kapitoly) a **0** karet rozhodnutí, doplněných samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **4** kapitoly (úvod a tři věcné kapitoly) a **1** karta rozhodnutí ([NS 32 Cdo 594/2019](judikatura/NS-32-Cdo-594-2019.md)), doplněných samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura neposkytuje citovatelnou tezi (složka `judikatura/` se doplní strojově);
+- místní judikatura poskytuje citovatelnou tezi jen k § 2 a § 4 (karta NS 32 Cdo 594/2019 k nařízenému prvnímu setkání); k ostatním ustanovením chybí;
 - místní důvodová zpráva není součástí repozitáře;
 - komentář vychází ze znění k 1. 7. 2017 — „pozdější změny nemusí být zohledněny“;
 - parametry vyhlášky č. 277/2012 Sb. a poplatkové sazby jsou výslovně označeny k ověření v aktuálním znění.

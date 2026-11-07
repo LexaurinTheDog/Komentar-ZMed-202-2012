@@ -4,7 +4,7 @@
 
 ## Metoda
 
-Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — doslovné znění zákona citované v kapitolách [01-vykon-mediace.md](01-vykon-mediace.md), [02-organizace-mediace.md](02-organizace-mediace.md) a [03-prestupky-eu-novely-ucinnost.md](03-prestupky-eu-novely-ucinnost.md) a výklad k jednotlivým paragrafům v týchž kapitolách. Každá zásada je doložena **doslovnou citací** znění zákona nebo komentáře; u citace je uveden soubor a paragraf. Repozitář neobsahuje místní judikaturní karty k zákonu o mediaci, a zásady níže proto nejsou formulovány jako judikatorní teze — jsou dovozeny z textu zákona, jeho systematiky a výkladu v kapitolách. Tam, kde by u předpisu s bohatou rozhodovací praxí stála judikatorní citace, je poctivé uvést, že opora v místních materiálech dosud chybí.
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — doslovné znění zákona citované v kapitolách [01-vykon-mediace.md](01-vykon-mediace.md), [02-organizace-mediace.md](02-organizace-mediace.md) a [03-prestupky-eu-novely-ucinnost.md](03-prestupky-eu-novely-ucinnost.md) a výklad k jednotlivým paragrafům v týchž kapitolách. Každá zásada je doložena **doslovnou citací** znění zákona nebo komentáře; u citace je uveden soubor a paragraf. Repozitář obsahuje jedinou místní judikaturní kartu — [NS 32 Cdo 594/2019](judikatura/NS-32-Cdo-594-2019.md) ze dne 23. 4. 2019 (kat. A), citovanou v kapitole 01 u § 2 a § 4 a zmíněnou níže u zásady 1; k ostatním ustanovením zákona o mediaci místní judikatura chybí. Zásady níže proto nejsou formulovány jako judikatorní teze — jsou dovozeny z textu zákona, jeho systematiky a výkladu v kapitolách. Tam, kde by u předpisu s bohatou rozhodovací praxí stála judikatorní citace, je poctivé uvést, že opora v místních materiálech dosud chybí.
 
 Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného textu a systematického kontextu ustanovení.
 
@@ -35,6 +35,16 @@ Mediace vzniká jen na základě svobodného rozhodnutí stran — nikoli naří
 Komentář k § 4 odlišuje od zahájení mediace soudem nařízené první setkání, které stranám ukládá jen povinnost se setkat, nikoli mediovat ([01-vykon-mediace.md](01-vykon-mediace.md), § 4):
 
 > „Nařízení prvního setkání s mediátorem podle § 100 odst. 2 o. s. ř. samo mediaci nezahajuje; účastníci jsou povinni se setkat s mediátorem v rozsahu 3 hodin, nikoli uzavřít smlouvu o provedení mediace.“
+
+K nařízenému prvnímu setkání se váže jediná místní judikaturní karta komentáře, [NS 32 Cdo 594/2019](judikatura/NS-32-Cdo-594-2019.md) (23. 4. 2019, kat. A), citovaná u § 2 a § 4. Její právní věta zní ([01-vykon-mediace.md](01-vykon-mediace.md), § 4):
+
+> „První soudem nařízené setkání se zapsaným mediátorem, při němž nedojde k uzavření smlouvy o provedení mediace, není procesním úkonem účastníků ve smyslu § 11 odst. 2 písm. a) zákona č. 91/2012 Sb“
+
+Výklad ke kartě u § 4 z toho dovozuje ([01-vykon-mediace.md](01-vykon-mediace.md), § 4):
+
+> „Žalovaný, který se takového setkání zúčastní, si tím podle karty nezavírá možnost navrhnout, aby žalobci-cizinci bylo uloženo složení jistoty na náklady řízení.“
+
+Uzavřou-li strany na setkání smlouvu o provedení mediace, jde již o mediaci se všemi účinky podle zákona a právní věta karty na takovou situaci nedopadá.
 
 Dobrovolnost trvá po celou dobu mediace. Každá strana může mediaci jednostranně opustit; mediace končí ([01-vykon-mediace.md](01-vykon-mediace.md), § 6 odst. 3 písm. c)):
 

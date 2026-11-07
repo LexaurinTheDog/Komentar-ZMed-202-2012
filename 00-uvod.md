@@ -76,6 +76,7 @@ Pro advokáty-mediátory platí zvláštní režim: ministerstvo nad nimi nevyko
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** podle místního konsolidovaného znění, pod ním oddíl `**Výklad:**` a dále oddíly F. Kazuistika, G. Protiargumenty a rizika, H. Praktický závěr a kontrolní checklist.
 - U novelizačních ustanovení (§ 30–38) komentář uvádí, kam se změny promítly a kde je dnes hledat jejich platné znění; odkazy na současnou podobu novelizovaných předpisů vycházejí z jejich lokálních znění a jsou výslovně označeny.
 - Komentář neobsahuje vymyšlené ani nedoložené spisové značky; kde zákon otázku výslovně neřeší, je výklad označen jako výkladová otázka.
+- Z místních zdrojů komentář cituje jediné rozhodnutí: Nejvyšší soud, [NS 32 Cdo 594/2019](judikatura/NS-32-Cdo-594-2019.md) ze dne 23. 4. 2019 (kat. A), a to u § 2 a § 4 v [kapitole 1](01-vykon-mediace.md). Podle jeho právní věty není první soudem nařízené setkání se zapsaným mediátorem, při němž nedojde k uzavření smlouvy o provedení mediace, procesním úkonem účastníků ve smyslu § 11 odst. 2 písm. a) zákona č. 91/2012 Sb. U ostatních ustanovení místní judikatura chybí.
 
 ---
 
